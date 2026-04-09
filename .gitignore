@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files (large, not for git)
+data/raw/
+data/processed/
+data/external/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Neo4j data (if any local)
+neo4j-data/
+
+# Environment variables
+.env
+
+# VS Code settings (optional)
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

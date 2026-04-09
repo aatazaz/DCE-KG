@@ -1,0 +1,15 @@
+spacy==3.5.0
+scispacy==0.5.1
+pandas==1.5.0
+tqdm==4.64.0
+torch==2.0.1
+transformers==4.30.0
+scikit-learn==1.2.2
+neo4j==5.8.0
+nltk==3.8.1
+biopython==1.81
+requests==2.31.0
+pmc-downloader==1.0.0
+pyvis==0.2.1
+jupyter==1.0.0
+nbconvert==7.4.0
